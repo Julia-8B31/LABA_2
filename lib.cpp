@@ -14,6 +14,6 @@ auto comp = [](const std::vector<std::string>& a, const std::vector<std::string>
             return partA < partB; // Сортировка по возрастанию
         }
     }
-    return false; // Если все части равны
+    return false; 
 };
 
